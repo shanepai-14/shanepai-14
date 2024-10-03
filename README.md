@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shanepai.com/](https://www.shanepai.com/)
 
-- 💬 Ask me about **Laravel, Nextjs**
+- 💬 Ask me about **Laravel, React**
 
 - 📫 How to reach me **shaneenriquez50@gmail.com**
 
