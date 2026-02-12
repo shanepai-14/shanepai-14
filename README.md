@@ -1,30 +1,100 @@
 <h1 align="center">Hi 👋, I'm Shane Enriquez</h1>
-<h3 align="center">A passionate aspiring Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Developer | Laravel & React Specialist | Systems-Focused Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanepai-14&label=Profile%20views&color=0e75b6&style=flat" alt="shanepai-14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanepai-14" alt="shanepai-14" /></a> </p>
-
-- 🔭 I’m currently working on [Policy, Planning and Research Division Archive System For DEPED](https://github.com/shanepai-14/pprd-fe)
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 👯 I’m looking to collaborate on [Policy, Planning and Research Division Archive System For DEPED](https://github.com/shanepai-14/pprd-fe)
-
-- 👨‍💻 All of my projects are available at [https://www.shanepai.com/](https://www.shanepai.com/)
-
-- 💬 Ask me about **Laravel, React**
-
-- 📫 How to reach me **shaneenriquez50@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shane-enriquez-2927a1254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane-enriquez-2927a1254" height="30" width="40" /></a>
-<a href="https://fb.com/pee.poy.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pee.poy.98" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shanepai-14&label=Profile%20views&color=0e75b6&style=flat" alt="shanepai-14" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+I’m a Full-Stack Developer specializing in **Laravel (PHP) and React**, building scalable SaaS platforms and real-time operational systems.
+
+I focus on:
+- Clean backend architecture (service layers, validation, security)
+- High-performance systems (Redis, in-memory processing, optimized queries)
+- Real-time data processing and integrations
+- Production deployment & Linux server management
+- AI-assisted development (Codex, Claude) with strong architectural validation
+
+---
+
+### 🏗️ Key Projects
+
+🔹 **ATSS (Automated Truck Scheduling System)**  
+A real-time ranking and dispatch system used by concrete batching plants.  
+- Laravel backend + React frontend  
+- GPS integration + real-time scoring logic  
+- Optimized using Redis & HashMap-based in-memory services  
+- Queue workers, cron jobs, production infrastructure  
+
+🔹 **GPSL (GPSLink Gateway)**  
+A normalization platform for multiple third-party GPS vendors.  
+- Unified API interface  
+- Data standardization layer  
+- Microservice-based processing  
+
+🔹 **Inventory & Sales Management Systems**  
+- Role-based portals  
+- Stock tracking & reporting  
+- Operational dashboards  
+
+🌐 Portfolio:  
+https://www.shanepai.com/
+
+---
+
+### 💻 Tech Stack
+
+**Backend**
+- Laravel (PHP 8)
+- REST APIs
+- Sanctum
+- Queues & Background Jobs
+- Redis
+- MySQL / PostgreSQL / MongoDB
+
+**Frontend**
+- React
+- Inertia
+- TailwindCSS
+- JavaScript (ES6+)
+- HTML / CSS
+
+**DevOps & Tools**
+- Linux (Ubuntu)
+- Git & GitHub
+- Docker (basic)
+- CI/CD
+- systemd / Supervisor
+- NPM / Composer
+
+**AI Tools**
+- Codex
+- Claude
+
+---
+
+### 📫 Contact Me
+
+- 📧 shaneenriquez50@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/shane-enriquez-2927a1254
+- 🌐 Portfolio: [https://www.shanepai.com/](https://shanepai-14.github.io/my-personal-portfolio)
+
+---
+
+### 🎯 What I Care About
+
+I don’t just build features — I think about:
+- Performance under load  
+- Data integrity  
+- Clean architecture  
+- Long-term scalability  
+- Product impact  
+
+If you're building serious systems and need someone who understands both the code and the architecture behind it — let's connect.
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanepai-14&show_icons=true&locale=en&layout=compact" alt="shanepai-14" /></p>
 
